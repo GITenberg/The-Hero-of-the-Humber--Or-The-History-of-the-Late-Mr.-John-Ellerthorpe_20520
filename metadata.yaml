@@ -1,0 +1,27 @@
+_repo: The-Hero-of-the-Humber--Or-The-History-of-the-Late-Mr.-John-Ellerthorpe_20520
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Woodcock, Henry
+    birthdate: 1830
+    gutenberg_agent_id: '9352'
+    url: http://www.gutenberg.org/2009/agents/9352
+description: ''
+gutenberg_issued: '2007-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20520'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sailors -- England -- Biography'
+- !lcsh 'Ellerthorpe, John, 1806-1868'
+- !lcc 'VK'
+- !lcsh 'Heroes -- England -- Biography'
+title: The Hero of the Humber; Or, The History of the Late Mr. John Ellerthorpe
+url: http://www.gutenberg.org/ebooks/20520
